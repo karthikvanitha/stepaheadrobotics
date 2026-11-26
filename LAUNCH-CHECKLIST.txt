@@ -1,0 +1,20 @@
+STEPAHEADROBOTICS – WEBSITE LAUNCH CHECKLIST
+
+Before publishing:
+[ ] A parent/legal guardian has reviewed and is responsible for payment, legal and customer-data arrangements if the operator is under 18.
+[ ] Website owner/host account is secured with a strong unique password and two-step verification where available.
+[ ] Website is served over HTTPS.
+[ ] All navigation links work on desktop and mobile.
+[ ] Contact form Google Sheets URL has been configured and a test enquiry appears in the correct sheet.
+[ ] Submit Enquiry and Submit to WhatsApp work as separate actions.
+[ ] Robotics project names, descriptions and numbering are correct.
+[ ] WhatsApp destination is correct and controlled by the website operator.
+[ ] ₹99 price is clearly displayed and payment instructions are confirmed directly with the customer.
+[ ] A test enquiry has been completed from another device/browser.
+[ ] Payment is checked in the payment app/account before sending any paid file.
+[ ] Paid project files are private; no private Drive links are exposed in public HTML.
+[ ] Privacy Policy, Terms & Conditions and Refund Policy have been reviewed and customized.
+[ ] Contact email is monitored and customer enquiries are handled securely.
+[ ] Google Sheet is shared only with people who need access; do not publish it publicly.
+
+Important: The website does not automatically verify UPI/GPay payments. Confirm each payment in the receiving account before delivering the file. These policy pages are starter templates, not legal advice. Obtain appropriate adult and professional review before launch.

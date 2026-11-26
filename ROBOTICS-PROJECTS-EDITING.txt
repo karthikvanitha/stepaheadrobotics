@@ -1,0 +1,11 @@
+STEPAHEADROBOTICS – ROBOTICS PROJECTS EDITING
+
+1. Open robotics-projects.html in Notepad or another text editor.
+2. Find the PROJECTS array near the bottom of the file.
+3. Replace the sample project names and descriptions with your own.
+4. Add or remove project objects as needed. The visible project numbers and enquiry dropdown update automatically.
+5. The price is fixed at ₹99 per project in the current page code.
+6. Visitors enter their name and WhatsApp number, choose a project number and send the pre-filled enquiry through WhatsApp. They must press Send in WhatsApp.
+7. You verify payment in your payment account and send the matching project text file manually.
+8. Do not add private Drive URLs to this public HTML file. Keep project files private and send them only after verifying payment.
+9. WhatsApp destination is set by WHATSAPP_NUMBER in the script.
